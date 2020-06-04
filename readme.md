@@ -9,6 +9,11 @@ I made HTML simple so that we can use the properties of javaScript in the higher
 This is my beautiful quiz application
  https://dhanya-krishnan2.github.io/quizapplication/.
  and I am adding the screen shots as well
- ![]screens/COLOR.jpg
- ![]/screens/SCREEN-1.png
- screens/SCREEN-3.pn
+ ![](screens/COLOR.jpg)
+ ![](/screens/SCREEN-1.png)
+ ![](screens/SCREEN-3.pn)
+![](2020-06-04(1).png)
+![](2020-06-04(2).png)
+![](/2020-06-04%20(1).png)
+![](/2020-06-04%20(2).png)
+![](/2020-06-04%20(3).png)
