@@ -17,3 +17,4 @@ This is my beautiful quiz application
 ![](/2020-06-04%20(1).png)
 ![](/2020-06-04%20(2).png)
 ![](/2020-06-04%20(3).png)
+The user  will get only 15sec to submit the answer and if they fail to submit the answer they miss the chance to submit it and they will finally know the highest score they will get in their each attempt.
