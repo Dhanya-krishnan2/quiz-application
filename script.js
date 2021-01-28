@@ -15,12 +15,14 @@
  const startAgainQuizBtn=document.querySelector(".start-again-quiz-btn");
  const goHomeBtn=document.querySelector(".go-home-btn");
  const startQuizBtn=document.querySelector(".start-quiz-btn");
+// Declared all the class and selected that with querySelector method to manipulate the class
  let attempt=0;
  let questionIndex=0;
  let score=0;
  let number=0;
  let myArray=[];
  let interval;
+// to start the quiz making everythig to zero and initializing an empty array
 
  // questions and options and  answer and answer description
  // array of objects
